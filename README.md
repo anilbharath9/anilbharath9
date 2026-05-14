@@ -1,75 +1,57 @@
-# Hi there, I'm Anil Kumar Bharath 👋
-### 5G Baseband Developer | Protocol Stack Architect | AI-RAN Enthusiast
+# Anil Kumar Bharath 🛰️ – 5G NR • Embedded Systems • AI-RAN • Protocol Architecture
 
-I am a Senior Software Engineer with **8+ years of experience** specializing in **5G-NR and 4G Protocol Stack Development (gNB-RAN)**. My expertise lies in high-performance communication systems, L2/L3 optimization, and the intersection of AI with Radio Access Networks.
-
----
-
-### 🛠️ Core Expertise
-
-| **5G & Telecommunications** | **Embedded & Systems** | **AI & Machine Learning** |
-| :--- | :--- | :--- |
-| ![5G](https://img.shields.io/badge/5G-NR-blue?style=flat-square) ![O-RAN](https://img.shields.io/badge/O--RAN-Split%207.2-orange?style=flat-square) | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | ![AI-RAN](https://img.shields.io/badge/AI--RAN-Edge-green?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Layer 2**: MAC, RLC, PDCP | **RTOS**: FreeRTOS, Zephyr | **ML**: Predictive Analytics |
-| **Layer 3**: RRC, NAS, Slicing | **Kernel**: Linux, Armv8-A | **RAG**: AI Engineering |
-| **Standards**: 3GPP Rel 15/16/17 | **Debug**: QXDM, GDB, Trace32 | **Data**: NumPy, Pandas |
+**Senior 5G Baseband Developer at Ericsson · Ex-Samsung · Ex-Mavenir**  
+*Building the backbone of modern telecommunications through high-performance protocol stacks and low-latency systems.*
 
 ---
 
-### 🏢 Professional Timeline
-
-*   **Ericsson** | *5G Baseband Developer* (2026 - Present)
-    - Scaling 5G NR deployment for global carriers.
-*   **Amantya Technologies** | *Technical Lead* (2025 - 2026)
-    - Leading end-to-end gNB stack delivery.
-*   **Mavenir** | *Member of Technical Staff - R&D* (2021 - 2025)
-    - High-performance RAN protocol development.
-*   **Samsung R&D** | *Assistant Engineer* (2019 - 2021)
-    - 5G NR-RAN Protocol Stack for Samsung flagship products.
-*   **Aricent (Intel)** | *Software Engineer* (2017 - 2019)
-    - LTE Layer 2 UE side implementation.
+## 🤝 Collaboration – 5G & AI-RAN Solutions
+If you build technology for the **Telecom stack**—Open RAN, baseband processing, or AI-orchestrated networks—let’s collaborate on open-source implementations or technical architectures.
+- **Reach** – Part of a global network of 5G/6G researchers and engineers.
+- **Format** – Technical deep-dives, protocol analysis, and performance benchmarking.
+- **Goal** – Bridge the gap between legacy protocol stacks and the AI-native future of 6G.
+Interested? Contact me on [LinkedIn](https://www.linkedin.com/in/anilbharath9) or at **anilbharath9@gmail.com**.
 
 ---
 
-### 📊 GitHub Statistics
+## ⭐ Flagship Technical Projects
+
+### [5G Master Technical Archive](https://github.com/anilbharath9/learning-archive)
+A curated knowledge hub compiled from 1,400+ technical interactions.
+- **Domain**: 5G NR, 3GPP Rel 15/16/17, URLLC, and Network Slicing.
+- **Focus**: Physical layer optimization and L2/L3 protocol architecture.
+
+### [AlgoCoder](https://github.com/anilbharath9/AlgoCoder)
+High-performance C/C++ implementations of complex data structures.
+- **Optimization**: Tailored for embedded systems and real-time execution constraints.
+- **Use Case**: Critical for baseband processing and packet scheduling.
+
+### [Python Code Practice](https://github.com/anilbharath9/Python_Code_Practice)
+Automation and scripting for the telecom lifecycle.
+- **Core**: Automated log parsing (QXDM/Wireshark) and KPI reporting.
+- **Impact**: Reducing troubleshooting time for carrier-grade field issues.
+
+---
+
+## 📊 Technical Depth & Metrics
 
 ![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilbharath9&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilbharath9&layout=compact&theme=tokyonight)
 
 ---
 
-### 🚀 Featured Repositories
-*   **[AlgoCoder](https://github.com/anilbharath9/AlgoCoder)**: A collection of data structures and algorithms implementation.
-*   **[Python_Code_Practice](https://github.com/anilbharath9/Python_Code_Practice)**: Python scripting and automation practice for technical excellence.
+## 📚 Learn & Connect
+1. 🔗 [LinkedIn](https://www.linkedin.com/in/anilbharath9) – Daily insights on 5G NR evolution and AI-RAN trends.
+2. 🛰️ [Technical Roadmap](https://github.com/anilbharath9/learning-archive) – My structured journey from 4G LTE to 6G research.
+3. 📧 [Email](mailto:anilbharath9@gmail.com) – Professional inquiries and collaboration requests.
 
 ---
 
-### ✍️ Recent Technical Research
-*   **5G NR CORESET Optimization**: Analysis of resource allocation for downlink control signals and interference management.
-*   **Beamforming & Physical Layer Mastery**: Deep dive into SSB/CSI-RS selection and RACH coverage constraints in dense urban environments.
-*   **AI-RAN & Autonomous Networks**: Research into the integration of Large Language Models (LLMs) for real-time RAN orchestration and troubleshooting.
+## ❤️ Support Engineering Excellence
+- **Star the repositories** you find useful – it helps the community grow.
+- **Share architectures** with your teams to improve system resilience.
+
+*Thank you for being part of the journey toward a more connected world.* 🙏
 
 ---
-
-### 🏗️ Architecture & Projects
-*   **[AlgoCoder](https://github.com/anilbharath9/AlgoCoder)**: High-performance data structure implementations optimized for embedded C/C++ environments.
-*   **[Python_Code_Practice](https://github.com/anilbharath9/Python_Code_Practice)**: Specialized automation scripts for parsing protocol trace logs (QXDM/Wireshark) and performance KPI analysis.
-*   **Carrier-Grade Stack Optimization**: Refactoring L2 scheduling logic to reduce latency in URLLC (Ultra-Reliable Low-Latency Communications) scenarios.
-
----
-
-### 📚 Technical Archive
-I maintain a structured **[Master Technical Knowledge Base](https://github.com/anilbharath9/learning-archive)** (compiled from 1,400+ technical interactions) covering:
-- **5G/6G Roadmap**: Physical layer design and 3GPP evolution.
-- **Embedded Mastery**: Memory management, RTOS internals, and BSP.
-- **System Design**: Low-latency architecture for carrier-grade systems.
-
----
-
-### 📫 Connect with Me
-- **LinkedIn**: [Anil Kumar Bharath](https://www.linkedin.com/in/anilbharath9)
-- **Specialties**: 5G NR, 4G LTE, AI-RAN, Embedded C/C++, System Optimization.
-
----
-
 > "Optimizing every bit, one millisecond at a time."
