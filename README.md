@@ -1,11 +1,26 @@
 # Anil Kumar Bharath 🛰️ – 5G NR • Embedded Systems • AI-RAN • Protocol Architecture
 
 **Senior 5G Baseband Developer at Ericsson · Ex-Samsung · Ex-Mavenir**  
+📍 **Bangalore, India**  
 *Building the backbone of modern telecommunications through high-performance protocol stacks and low-latency systems.*
+
+---
+
+## 👨‍💼 About Me
+
+Experienced 5G protocol architect with deep expertise in:
+- **5G NR Physical Layer & MAC/RLC/PDCP Stacks**
+- **Embedded Systems & Real-Time Processing**
+- **AI-RAN & Intelligent Network Orchestration**
+- **C/C++ High-Performance Systems Programming**
+- **Python Automation & Network Analytics**
+
+Passionate about optimizing carrier-grade telecommunications systems and bridging legacy protocol stacks with AI-native 6G architectures.
+
 ---
 
 ## 🤝 Collaboration – 5G & AI-RAN Solutions
-If you build technology for the **Telecom stack**—Open RAN, baseband processing, or AI-orchestrated networks—let’s collaborate on open-source implementations or technical architectures.
+If you build technology for the **Telecom stack**—Open RAN, baseband processing, or AI-orchestrated networks—let's collaborate on open-source implementations or technical architectures.
 - **Reach** – Part of a global network of 5G/6G researchers and engineers.
 - **Format** – Technical deep-dives, protocol analysis, and performance benchmarking.
 - **Goal** – Bridge the gap between legacy protocol stacks and the AI-native future of 6G.
