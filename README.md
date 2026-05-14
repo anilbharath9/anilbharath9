@@ -44,14 +44,6 @@ I am a Senior Software Engineer with **8+ years of experience** specializing in 
 
 ---
 
-### 📚 Technical Archive
-I maintain a structured **[Master Technical Knowledge Base](https://github.com/anilbharath9/learning-archive)** (compiled from 1,400+ technical interactions) covering:
-- **5G/6G Roadmap**: Physical layer design and 3GPP evolution.
-- **Embedded Mastery**: Memory management, RTOS internals, and BSP.
-- **System Design**: Low-latency architecture for carrier-grade systems.
-
----
-
 ### ✍️ Recent Technical Research
 *   **5G NR CORESET Optimization**: Analysis of resource allocation for downlink control signals and interference management.
 *   **Beamforming & Physical Layer Mastery**: Deep dive into SSB/CSI-RS selection and RACH coverage constraints in dense urban environments.
@@ -63,6 +55,14 @@ I maintain a structured **[Master Technical Knowledge Base](https://github.com/a
 *   **[AlgoCoder](https://github.com/anilbharath9/AlgoCoder)**: High-performance data structure implementations optimized for embedded C/C++ environments.
 *   **[Python_Code_Practice](https://github.com/anilbharath9/Python_Code_Practice)**: Specialized automation scripts for parsing protocol trace logs (QXDM/Wireshark) and performance KPI analysis.
 *   **Carrier-Grade Stack Optimization**: Refactoring L2 scheduling logic to reduce latency in URLLC (Ultra-Reliable Low-Latency Communications) scenarios.
+
+---
+
+### 📚 Technical Archive
+I maintain a structured **[Master Technical Knowledge Base](https://github.com/anilbharath9/learning-archive)** (compiled from 1,400+ technical interactions) covering:
+- **5G/6G Roadmap**: Physical layer design and 3GPP evolution.
+- **Embedded Mastery**: Memory management, RTOS internals, and BSP.
+- **System Design**: Low-latency architecture for carrier-grade systems.
 
 ---
 
