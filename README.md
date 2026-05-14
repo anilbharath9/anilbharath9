@@ -2,7 +2,6 @@
 
 **Senior 5G Baseband Developer at Ericsson · Ex-Samsung · Ex-Mavenir**  
 *Building the backbone of modern telecommunications through high-performance protocol stacks and low-latency systems.*
-
 ---
 
 ## 🤝 Collaboration – 5G & AI-RAN Solutions
